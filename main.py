@@ -11,10 +11,10 @@ import os
 
 # The roast. The agent is the only employee who diligently reads the
 # whole manual, promptly forgets the whole manual, and then asks the
-# human to email it the manual — diligent, useless, and needy in one
-# breath. Revised from v1 ("My agent read the entire brief twice,
-# then asked me to paste the brief.") — v2 keeps the same joke but
-# lands harder with the triple beat and the email punchline.
+# human to email it the manual — diligent, useless, and needy in a
+# single breath. Revised from v1 ("My agent read the entire brief
+# twice, then asked me to paste the brief.") — v2 keeps the same joke
+# but lands harder with the triple beat and the email punchline.
 LINE = "My agent is the only employee who reads the whole manual, forgets the whole manual, and asks me to email it the manual."
 
 MAX_CHARS = 200
